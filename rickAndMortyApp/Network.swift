@@ -28,7 +28,6 @@ class Network: ObservableObject {
                 DispatchQueue.main.async {
                     do {
                         let decodeResults = try JSONDecoder().decode(ApiResponse.self, from: data)
-                        print(decodeResults)
                         self.characters = decodeResults.results
                     } catch let error {
                         print("Error decoding: ", error)

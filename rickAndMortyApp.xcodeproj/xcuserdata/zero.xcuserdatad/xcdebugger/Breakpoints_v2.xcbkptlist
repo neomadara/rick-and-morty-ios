@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D5EF87C-7BEF-44FF-BF42-31BD0A74F633"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterCollectionFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CharacterCollectionFetcher"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - cb42d6cc3337094d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of rickAndMortyApp.CharacterCollectionFetcher.characterList : rickAndMortyApp.CharacterCollection"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/CharacterCollectionFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 9924b0913ed803"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.characterList.getter : rickAndMortyApp.CharacterCollection"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/CharacterCollectionFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 37c57968baccf664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.characterList.setter : rickAndMortyApp.CharacterCollection"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/CharacterCollectionFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - da54ed8fc0712c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.characterList.modify : rickAndMortyApp.CharacterCollection"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/CharacterCollectionFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 719b094c0b961414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.characterList.modify : rickAndMortyApp.CharacterCollection with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 1cbffbc2038cd8e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.$characterList.getter : Combine.Published&lt;rickAndMortyApp.CharacterCollection&gt;.Publisher"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/CharacterCollectionFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - e82b30a11609fad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.$characterList.setter : Combine.Published&lt;rickAndMortyApp.CharacterCollection&gt;.Publisher"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 94b39aa82d07ec40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.$characterList.modify : Combine.Published&lt;rickAndMortyApp.CharacterCollection&gt;.Publisher"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "290C1CDE-AD5D-48B4-AD84-78603B129B43 - 5386b0d60e61c4ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rickAndMortyApp.CharacterCollectionFetcher.$characterList.modify : Combine.Published&lt;rickAndMortyApp.CharacterCollection&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "rickAndMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zero/workspace/ios/rickAndMortyApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
